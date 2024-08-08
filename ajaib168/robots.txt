@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://glenrickwhite.co.uk/ajaib168/sitemap.xml
