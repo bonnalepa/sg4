@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://glenrickwhite.co.uk/aksi4d/sitemap.xml
